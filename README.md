@@ -27,3 +27,5 @@ Converts all 3d files in the folder D:\3DModels\zeb to threejs files and puts th
 ADFormatExporter.exe -p "C:\Users\Anil\AppData\Local\Programs\Python\Python36-32\python.exe"   -i "D:\3DModels\zeb"  -o "D:\3DModels\zeb1"
 Python executable path can also be supplied but its optional
 
+
+This utility uses Autodesk FBXConverter and convert_to_threejs.py script as a bases for conversion.
